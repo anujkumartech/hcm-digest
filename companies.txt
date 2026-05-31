@@ -1,0 +1,22 @@
+# HCM / HR-tech companies to track. One per line.
+# Lines starting with # are ignored. Edit freely.
+
+Workday
+ADP
+SAP SuccessFactors
+Oracle HCM
+UKG
+Dayforce
+Paychex
+Rippling
+Deel
+Gusto
+BambooHR
+Personio
+# AI-native talent layer
+Eightfold
+Phenom
+Beamery
+# Platform players pushing into HR AI
+ServiceNow
+Microsoft Viva
